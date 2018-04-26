@@ -1,0 +1,16 @@
+{
+  "version": 0.1,
+  "data":
+  [
+    {
+      "text": "blockchain",
+      "operation": "*",
+      "value": 2
+    },
+    {
+      "text": "chatbot",
+      "operation": "+",
+      "value": 1
+    }
+  ]
+}
