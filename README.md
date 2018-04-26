@@ -6,6 +6,7 @@ Store those dictionaries of words and their values
 _You can look in the "db" directory_
 
 version: xxx - indicates the structure version of the file
+
 data: array of data:
 * text - you can enter texts strings separated by |
 * operation - you can enter: + * or %
